@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11906363243",
+    "project_id": "watch-your-property",
+    "storage_bucket": "watch-your-property.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11906363243:android:d71e849b0627ba1f3ca62e",
+        "android_client_info": {
+          "package_name": "com.example.project_watchyourproperty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11906363243-8puovd5orvvon7sq8155ghimre4eltgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdNvbpZhccZPhfScvz_NBUNjRej8kBnM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11906363243-8puovd5orvvon7sq8155ghimre4eltgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
